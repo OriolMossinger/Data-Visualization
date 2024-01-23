@@ -4,6 +4,8 @@
 
 This project focuses on the analysis and visualization of the New York housing market. Utilizing data science and visualization techniques, this repository contains a Jupyter notebook (`Data_Visualization.ipynb`) that explores various aspects of the housing market in New York.
 
+https://nbviewer.org/github/OriolMossinger/Data-Visualization/blob/main/Data-Visualization.html
+
 ## Contents
 
 - `Data_Visualization.ipynb`: A Jupyter notebook containing data analysis and visualization of the New York housing market. The notebook includes data processing, exploratory analysis, and visualizations to understand trends and insights within the housing data.
